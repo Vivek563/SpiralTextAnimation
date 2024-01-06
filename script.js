@@ -12,5 +12,5 @@ const characters = words.split("").forEach((char, i) => {
   document.getElementById("spiral").append(createElement(0));
   document
     .getElementById("spiral2")
-    .append(createElement(ANIMATION_DURATION / 2));
+    .append(createElement(-1 * ANIMATION_DURATION / 2));
 });
