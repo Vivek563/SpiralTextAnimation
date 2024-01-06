@@ -23,7 +23,7 @@ This project showcases a creative use of CSS animations and JavaScript to genera
 
 2. Open index.html in your preferred web browser.
 
-## Explore the spiral animation with the provided text.
+3. Explore the spiral animation with the provided text.
 
 ## Customize
 - Feel free to customize the project by modifying the text, colors, or adjusting the animation properties in the CSS file.
